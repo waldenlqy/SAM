@@ -1,0 +1,5 @@
+{
+    "dnn_hidden_units_act_op"  : ["relu", "relu"],
+    "num_mem_pass":3,
+    "gru_out": false
+}
