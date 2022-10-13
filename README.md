@@ -4,3 +4,7 @@ Qianying Lin, Wen-Ji Zhou, Yanshi Wang, Qing Da, Qing-Guo Chen, and Bing Wang. 2
 
 # Note
 We include the methods for sequence modeling in Tensorflow. The proposed method SAM is in SAM/SAM_codes/sam_model/sparse_attentive_memory_network.py
+
+# References
+We referenced the following githubs/papers for our implementations for baselines
+1. https://github.com/UIC-Paper/MIMN
